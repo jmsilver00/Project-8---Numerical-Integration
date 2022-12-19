@@ -1,1 +1,1 @@
-# Project-8---Numerical-Integration
+# Project 8 -Numerical-Integration
